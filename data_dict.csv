@@ -1,4 +1,4 @@
-﻿Dataset Columns,Description,Type
+﻿DatasetColumns,Description,Type
 License Issue Date,Date and time of when the pet license was issued.,Floating Timestamp
 License Number,Unique ID for each issued license.,Integer
 Animal's Name,Name of the licensed pet.,String
