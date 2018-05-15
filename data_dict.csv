@@ -1,0 +1,8 @@
+﻿Dataset Columns,Description,Type
+License Issue Date,Date and time of when the pet license was issued.,Floating Timestamp
+License Number,Unique ID for each issued license.,Integer
+Animal's Name,Name of the licensed pet.,String
+Species,"Species of the licensed pet. Will be either 'Dog,' 'Cat,' or 'Livestock.'",String
+Primary Breed,Primary breed of the licensed pet.,String
+Secondary Breed: ,Secondary breed (if any) of the licensed pet,String
+zip_code,Zip code of the place of License registeration,Num
